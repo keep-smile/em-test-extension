@@ -13,12 +13,6 @@
     ],
     "useShellSDK": false,
     "outletPositions": [
-	"MDM_CONTACT_DETAIL_PAGE_BOTTOM",
-        "SHELL_HOME_SCREEN",	
-	"WFM_ACTIVITY_SIDEBAR",
-	"PP_DASHBOARD_1",
-	"PP_TECHNICIAN_DETAILS_1",
-	"PP_ASSIGNMENT_DETAILS_2",
 	"SERVICE_CALL_VIEW_PAGE_EQUIPMENT_TAB_TOP"
     ],
     "insideShell": true,
