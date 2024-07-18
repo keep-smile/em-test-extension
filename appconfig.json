@@ -2,7 +2,7 @@
     "name": "EM Test Extension",
     "provider": "BZ",
     "description": "Sample extension inside Shell with Shell navigation",   
-    "version": "1.0.0", 
+    "version": "1.2.0", 
     "icon": "https://avatars.githubusercontent.com/u/832736?v=4",
     "translations": [
       {
@@ -27,32 +27,6 @@
         {
           "lang": "de",
           "value": "Kontakt zulassen"
-        }
-      ]
-    },
-    {
-      "name": "apiKey",
-      "required": true,
-      "type": "TEXT",
-      "regexValidation": "^[a-zA-Z-]+$",
-      "labelTranslations": [
-        {
-          "lang": "en",
-          "value": "API Key"
-        },
-        {
-          "lang": "de",
-          "value": "API-Schlüssel"
-        }
-      ],
-      "placeholderTranslations": [
-        {
-          "lang": "en",
-          "value": "An API key received in the confirmation mail"
-        },
-        {
-          "lang": "de",
-          "value": "API-Schlüssel, den Sie in der Bestätigungsmail erhalten haben"
         }
       ]
     },
